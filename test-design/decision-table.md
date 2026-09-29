@@ -1,6 +1,6 @@
 # Design Table
 
-DT-REG-001
+## DT-REG-001
 | TC ID | Email | Password | Confirm Password | Expected Result |
 |---|---|---|---|---|
 | TC-REG-001 | Valid | Valid | Valid | Успешная регистрация |
