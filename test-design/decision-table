@@ -1,1 +1,10 @@
+# Design Table
 
+DT-REG-001
+| TC ID | Email | Password | Confirm Password | Expected Result |
+|---|---|---|---|---|
+| TC-REG-001 | Valid | Valid | Valid | Успешная регистрация |
+| TC-REG-002 | Invalid | Valid | Valid | Ошибка валидации email |
+| TC-REG-003 | Valid | Invalid | Valid | Ошибка валидации пароля |
+| TC-REG-004 | Valid | Valid | Invalid | Ошибка валидации повторного пароля |
+| TC-REG-005 | Invalid | Valid | Valid | Ошибка уже существующего email |
