@@ -1,4 +1,4 @@
-# Design Table
+# Design Table Registration
 
 ## DT-REG-001
 | TC ID | Email | Password | Confirm Password | Expected Result |
