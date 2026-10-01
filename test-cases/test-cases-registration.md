@@ -1,4 +1,4 @@
-# Test Case Registration
+# Test Cases Registration
 
 # 1. Регистрация
 
