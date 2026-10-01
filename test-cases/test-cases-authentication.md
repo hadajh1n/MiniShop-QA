@@ -1,4 +1,4 @@
-# Test Case Authentication
+# Test Cases Authentication
 
 ## TC-AUTH-001 - Успешная аутентификация
 
