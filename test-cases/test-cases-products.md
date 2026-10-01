@@ -1,4 +1,4 @@
-# Test Case Products
+# Test Cases Products
 
 ## TC-PROD-001 - Получение списка товаров авторизованным пользователем
 
